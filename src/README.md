@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 首页
-# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroImage: ../.vuepress/public/assets/宇航员.webp
+heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+# heroImage: ../.vuepress/public/assets/宇航员.webp
 heroText: 献苓
 heroFullScreen: true
 tagline: 前端开发者，专注于分享技术
