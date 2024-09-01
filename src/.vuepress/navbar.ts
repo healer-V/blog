@@ -75,11 +75,7 @@ export default navbar([
       //     "4",
       //   ],
       // },
-       {
-        text: "学习路线",
-        icon: "book",
-        link: "cherry",
-      },
+       
      
       // { text: "樱桃", icon: "pen-to-square", link: "cherry" },
       // { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
@@ -87,5 +83,10 @@ export default navbar([
       // "strawberry",
     ],
   },
+  {
+      text: "学习路线",
+      icon: "book",
+      link: "cherry",
+  }
 
 ]);
