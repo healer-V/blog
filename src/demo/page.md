@@ -8,9 +8,9 @@ icon: file
 # 这是侧边栏的顺序
 order: 3
 # 设置作者
-author: Ms.Hope
+author: 献苓
 # 设置写作时间
-date: 2020-01-01
+date: 2023-02-12
 # 一个页面可以有多个分类
 category:
   - 使用指南
@@ -117,7 +117,7 @@ const MyComponent = defineComponent({
 - 一个卡片:
 
   ```component VPCard
-  title: Mr.Hope
+  title: 献苓
   desc: Where there is light, there is hope
   logo: https://mister-hope.com/logo.svg
   link: https://mister-hope.com
